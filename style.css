@@ -1,0 +1,39 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+
+h1{
+    font-size: 30px;
+}
+
+.orange-color{
+    color:orange;
+}
+
+section{
+    display: flex;
+}
+
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+
+.half-width img{
+    width: 60%;
+}
+
+#hire-me-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    font-weight: 700px;
+    color: white;
+    text-transform: uppercase;
+}
+
+#first-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
