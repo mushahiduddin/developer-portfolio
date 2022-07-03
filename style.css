@@ -11,7 +11,7 @@ h1{
     color:orange;
 }
 
-section{
+.flexible{
     display: flex;
     margin-bottom: 100px;
 }
@@ -35,12 +35,12 @@ section{
     border-radius: 10px;
 }
 
-#first-banner{
+.first-banner{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
 
-#dream-big{
+.dream-big{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
